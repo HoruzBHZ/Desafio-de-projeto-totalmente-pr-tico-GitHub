@@ -1,8 +1,0 @@
-Desafio de projeto:
-
-Passo a Passo:
-
-- 1º Criar um repositório novo no GitHub com seu usuário logado e colocar uma descrição de forma pública.
-- 2º Marcar a opção ADD a README file, vai criar um arquivo como se fosse a parte inicial do repositório, pode adicionar considerações iniciais,   anotações, link úteis, coisa relacionada ao repositório.
-- 3º Clonar o repositório atráves do link em Https no GitHub e copiar na pasta que você criou.
-- 4º Abrir o programa Git Bash Here, digite o comando git clone para colar o link do repositório na pasta que você criou do Github.

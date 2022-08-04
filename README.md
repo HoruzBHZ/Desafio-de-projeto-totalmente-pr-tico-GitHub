@@ -1,4 +1,4 @@
-# Desafio de projeto totalmente prático-GitHub DIO
+# Desafio de projeto totalmente pratico-GitHub DIO
 Primeiro desafio de projeto, repositório criado para entrega Git/GitHub
 
 ## Links Úteis
